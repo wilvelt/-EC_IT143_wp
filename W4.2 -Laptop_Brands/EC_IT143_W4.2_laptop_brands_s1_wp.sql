@@ -1,0 +1,1 @@
+--Q : What is the average price of laptops by brand?
